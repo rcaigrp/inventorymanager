@@ -23,3 +23,7 @@ Closing ExpenseAnalyzer sprint. All 4 acceptance criteria passed tests. Updating
 ## Turn 7 — Manager (2026-05-21 12:21 UTC)
 
 Closed ExpenseAnalyzer sprint. All acceptance criteria met and tests passed. Budget exhausted. Proceeding to next project.
+
+## Turn 8 — Manager (2026-05-21 12:28 UTC)
+
+Closing ExpenseAnalyzer sprint as budget exhausted and all criteria met. No parked projects visible in context, so proposing a new project: NoteKeeper (local note storage module). Created project.json, README.md, and acceptance_tests.py for NoteKeeper to establish Definition of Done.
