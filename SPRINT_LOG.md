@@ -31,3 +31,7 @@ Closing ExpenseAnalyzer sprint as budget exhausted and all criteria met. No park
 ## Turn 9 — Manager (2026-05-21 12:38 UTC)
 
 
+
+## Turn 1 — Manager (2026-05-21 12:46 UTC)
+
+Refactoring inventory.py to use an Inventory class and rewriting acceptance_tests.py to use the class. This resolves the module/dict naming collision and provides a cleaner, more robust implementation. Running tests with 'cd' to ensure module discovery.
